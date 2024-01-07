@@ -11,8 +11,8 @@
 }
 .pawprint {
     position: fixed;
-    top: 0;
-    left: 0;
+    top: 45px;
+    left: 65px;
 }
 .luna {
     position: sticky;
